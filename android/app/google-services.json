@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "209972072168",
+    "project_id": "drug-pedia",
+    "storage_bucket": "drug-pedia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209972072168:android:403a5d62394e6ac2a0c35d",
+        "android_client_info": {
+          "package_name": "com.jparkdev63.drugpedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209972072168-6qodflpjjoc9f6js8v6k8r0aehqhcj4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6OqNlKJLxbKHAMBeittEctFrWGQ59RNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209972072168-6qodflpjjoc9f6js8v6k8r0aehqhcj4e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "209972072168-5037qtsu8s56v7tuicphgn9anbgi345t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.drugpedia.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

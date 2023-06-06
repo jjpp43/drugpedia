@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>209972072168-5037qtsu8s56v7tuicphgn9anbgi345t.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.209972072168-5037qtsu8s56v7tuicphgn9anbgi345t</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>209972072168-bcba508bn7dkl9op02b7s7s1meaaucmo.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCHtVijjwxn8Rwckp82EX88LqNIq_99Xrs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>209972072168</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.drugpedia.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>drug-pedia</string>
+	<key>STORAGE_BUCKET</key>
+	<string>drug-pedia.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:209972072168:ios:7909eb2b36573d6ca0c35d</string>
+</dict>
+</plist>
